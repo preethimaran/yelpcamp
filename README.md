@@ -28,10 +28,3 @@ YelpCamp has been deployed using Vercel. To access the website [click here](http
 
 ## Author
 [Preethi Maran](https://github.com/preethimaran)
-
-
-
-
-
-
-[Live Demo](https://yelpcamp-seven-kappa.vercel.app/)
