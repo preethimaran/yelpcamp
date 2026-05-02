@@ -2,7 +2,7 @@
 A website that allows users to create and review campgrounds.
 
 ## Description
-YelpCamp is a definitive Fullstack Web Application built using Node.js, Express, MongoDB and Bootstrap to mimic the functionality of the review platform Yelp. Users can register to create campgrounds and users who are logged in can leave reviews for the created campgrounds. This project was built as part of [@Colt Steele](https://github.com/Colt)'s The Web Developer's Bootcamp 2026. The aim of this project is to demonstrate an understanding of fullstack web development and how the different components: frontend, authentication, backened and a database are integrated to create a fully functioning app for a seemless user experience.
+YelpCamp is a definitive Fullstack Web Application built using Node.js, Express, MongoDB and Bootstrap to mimic the functionality of the review platform Yelp. It has a responsive design and the website adapts to different screen sizes. Users can register to create campgrounds and users who are logged in can leave reviews for the created campgrounds. This project was built as part of [@Colt Steele](https://github.com/Colt)'s The Web Developer's Bootcamp 2026. The aim of this project is to demonstrate an understanding of fullstack web development and how the different components: frontend, authentication, backened and a database are integrated to create a fully functioning app for a seemless user experience.
 
 ## Overview of YelpCamp functionality
 * In YelpCamp to create a campground a user will first have to register themselves by providing a username, email and password.
@@ -21,6 +21,7 @@ YelpCamp has been deployed using Vercel. To access the website [click here](http
 * **Node.js** *Javascript Run Time Environment.*
 * **Express.js** *Web Application Framework for creating a server and handling HTTP requests.*
 * **EJS** *Templating Engine.*
+* **Bootstrap** *To design the webiste and for a resposive ui*
 * **Passport.js** *For Authentication and Authorisation of users.*
 * **MongoDB and MongoDB Atlas**: *NoSQL database.*
 * **Mongoose** *MongoDB Object Data Modelling (ODM) library to create connection between MongoDB (Atlas) and Node.js*
