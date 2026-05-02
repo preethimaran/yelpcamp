@@ -12,13 +12,13 @@ YelpCamp is a definitive Fullstack Web Application built using Node.js, Express,
 * A user that is not logged in can browse through all the available campgrounds and read all the reviews but cannot perform any other action.
 
 ## Tech Stack Used
-* **Node.js** Javascript Run Time Environment.
-* **Express.js** Web Application Framework for creating a server and handling HTTP requests.
-* **EJS** Templating Engine.
-* **Passport.js** For Authentication and Authorisation of users.
-* **MongoDB** and MongoDB Atlas: NoSQL database.
-* **Mongoose** MongoDB Object Data Modelling (ODM) library to create connection between MongoDB (Atlas) and Node.js
-* **Helmet.js** For security by setting Content Security Policy header in HTTP response.
+* **Node.js** *Javascript Run Time Environment.*
+* **Express.js** *Web Application Framework for creating a server and handling HTTP requests.*
+* **EJS** *Templating Engine.*
+* **Passport.js** *For Authentication and Authorisation of users.*
+* **MongoDB and MongoDB Atlas**: *NoSQL database.*
+* **Mongoose** *MongoDB Object Data Modelling (ODM) library to create connection between MongoDB (Atlas) and Node.js*
+* **Helmet.js** *For security by setting Content Security Policy header in HTTP response.*
 
 
 
