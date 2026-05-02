@@ -27,5 +27,18 @@ YelpCamp has been deployed using Vercel. To access the website [click here](http
 * **Mongoose** *MongoDB Object Data Modelling (ODM) library to create connection between MongoDB (Atlas) and Node.js*
 * **Helmet.js** *For security by setting Content Security Policy header in HTTP response.*
 
+## Website Screenshots
+<img width="1920" height="1080" alt="Portfolio_1" src="https://github.com/user-attachments/assets/a3ed797e-ee32-4459-9e1d-757f74f70eef" />
+
+<img width="1920" height="1080" alt="Portfolio_2" src="https://github.com/user-attachments/assets/e92572e1-bd6b-4677-b44e-e092198d1204" />
+
+<img width="1920" height="1080" alt="Portfolio_3" src="https://github.com/user-attachments/assets/5596fd2a-238f-4d18-82a8-64ee6b248f14" />
+
+<img width="1920" height="1080" alt="Portfolio_4" src="https://github.com/user-attachments/assets/f9d7a58f-0d71-4f3b-b3e1-ef10a194d946" />
+
+
+
+
+
 ## Author
 [Preethi Maran](https://github.com/preethimaran)
