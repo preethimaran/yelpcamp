@@ -10,6 +10,7 @@ node_modules/
 logs
 *.log
 npm-debug.log*
+uploads/
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
