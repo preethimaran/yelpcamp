@@ -1,4 +1,7 @@
 # YelpCamp 
+A Website that allows users to create and review Campgrounds
+
+## Description
 YelpCamp is a definitive Fullstack Web Application built using Node.js, Express, MongoDB and Bootstrap to mimic the functionality of the review platform Yelp. Users can register to create campgrounds and users who are logged in can leave reviews for the created campgrounds. This project was built as part of [@Colt Steele](https://github.com/Colt)'s The Web Developer's Bootcamp 2026. The aim of this project is to demonstrate an understanding of fullstack web development and how the different components: frontend, authentication, backened and a database are integrated to create a fully functioning app for a seemless user experience.
 
 ## Overview of YelpCamp functionality
@@ -10,6 +13,9 @@ YelpCamp is a definitive Fullstack Web Application built using Node.js, Express,
 * To leave reviews on campgrounds a user will have to be logged in.
 * A logged in user can delete their own reviews.
 * A user that is not logged in can browse through all the available campgrounds and read all the reviews but cannot perform any other action.
+
+## Deployment
+YelpCamp has been deployed using Vercel. To access the website [click here](https://yelpcamp-seven-kappa.vercel.app/)
 
 ## Tech Stack Used
 * **Node.js** *Javascript Run Time Environment.*
