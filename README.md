@@ -1,5 +1,5 @@
 # YelpCamp 
-A Website that allows users to create and review Campgrounds
+A website that allows users to create and review campgrounds.
 
 ## Description
 YelpCamp is a definitive Fullstack Web Application built using Node.js, Express, MongoDB and Bootstrap to mimic the functionality of the review platform Yelp. Users can register to create campgrounds and users who are logged in can leave reviews for the created campgrounds. This project was built as part of [@Colt Steele](https://github.com/Colt)'s The Web Developer's Bootcamp 2026. The aim of this project is to demonstrate an understanding of fullstack web development and how the different components: frontend, authentication, backened and a database are integrated to create a fully functioning app for a seemless user experience.
@@ -25,6 +25,9 @@ YelpCamp has been deployed using Vercel. To access the website [click here](http
 * **MongoDB and MongoDB Atlas**: *NoSQL database.*
 * **Mongoose** *MongoDB Object Data Modelling (ODM) library to create connection between MongoDB (Atlas) and Node.js*
 * **Helmet.js** *For security by setting Content Security Policy header in HTTP response.*
+
+## Author
+[Preethi Maran](https://github.com/preethimaran)
 
 
 
